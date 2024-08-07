@@ -1,2 +1,2 @@
 # Spotify-Clone
-UI clone of Spotify 
+UI clone of Spotify music player
